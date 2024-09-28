@@ -9,3 +9,4 @@ int z=a+b;
 System.out.println("Sum of"+x+"and"+y+"is"+z);
 }
 }
+ 
